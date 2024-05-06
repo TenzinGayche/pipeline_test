@@ -1,0 +1,6 @@
+sentencepiece
+transformers datasets
+accelerate -U
+sacrebleu
+evaluate
+scikit-learn
