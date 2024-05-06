@@ -1,6 +1,6 @@
 # pipeline_test
 `accelerate config`
-Select deepspeed ZeRO or fsdp with cpu offload 
+(Select deepspeed ZeRO or fsdp with cpu offload )
 
 `accelerate test`
 
