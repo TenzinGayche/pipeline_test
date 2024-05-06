@@ -4,3 +4,4 @@ accelerate -U
 sacrebleu
 evaluate
 scikit-learn
+deepspeed
